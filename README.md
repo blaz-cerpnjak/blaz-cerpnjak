@@ -15,8 +15,8 @@ I am a student on Faculty of Electrical Engineering and Computer Science in Mari
 ### Social
 
 You can find me on the following social media platforms or send me an email:
-- [Instagram]:https://www.instagram.com/blaz_cerpnjak/
-- [Facebook]:https://www.facebook.com/blaz.cerpnjak/
+- Instagram: https://www.instagram.com/blaz_cerpnjak/
+- Facebook: https://www.facebook.com/blaz.cerpnjak/
 - blaz.cerpnjak@gmail.com
 
 <!--
