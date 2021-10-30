@@ -6,13 +6,13 @@ I am a student on Faculty of Electrical Engineering and Computer Science in Mari
 - 🔭 I’m currently working on somethink cool 😉
 - 📫 How to reach me: blaz.cerpnjak@gmail.com
 
-### My projects
+### My projects ✨
 
 - 👽 NorbyTheAlien android game
 - 🍎 FitLajf fitness app (only in Slovenia)
 - Check it out here: https://linktr.ee/blaz_cerpnjak
 
-### Social
+### Social 📱
 
 You can find me on the following social media platforms or send me an email:
 - Instagram: https://www.instagram.com/blaz_cerpnjak/
