@@ -2,14 +2,15 @@
 
 Currently I am a student on Faculty of Electrical Engineering and Computer Science in Maribor.
 
+- 💻 I'im interested in programming & software development
 - 🔭 I’m currently working on somethink cool 😉
-- 💻 I'im interested at software development
 - 📫 How to reach me: blaz.cerpnjak@gmail.com
 
 ### My projects
 
 - 👽 NorbyTheAlien android game
 - 🍎 FitLajf fitness app (only in Slovenia)
+- Check it out here: https://linktr.ee/blaz_cerpnjak
 
 <!--
 **blaz-cerpnjak/blaz-cerpnjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
