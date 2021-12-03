@@ -2,8 +2,8 @@
 
 I am a student on Faculty of Electrical Engineering and Computer Science in Maribor.
 
-- 💻 I'im interested in programming & software development
-- 🔭 I’m currently working on somethink cool 😉
+- 💻 I'm interested in programming & software development
+- 👨‍💻 I'm currently working on two cool projects that are still a secret at the moment.😉
 - 📫 How to reach me: blaz.cerpnjak@gmail.com
 
 ### My projects ✨
