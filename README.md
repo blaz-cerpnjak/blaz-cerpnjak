@@ -8,6 +8,7 @@ I am a student on Faculty of Electrical Engineering and Computer Science in Mari
 
 ### My projects ✨
 
+- :parking: MyParkings - Track Your Parkings (https://www.youtube.com/watch?v=vIINvSmjVFQ) 
 - 👽 NorbyTheAlien android game
 - 🍎 FitLajf fitness app (only in Slovenia)
 - Check it out here: https://linktr.ee/blaz_cerpnjak
