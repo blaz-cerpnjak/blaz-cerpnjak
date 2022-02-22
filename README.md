@@ -13,7 +13,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ))
 - 👽 NorbyTheAlien android game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ))
-- 🍎 FitLajf fitness app (only in Slovenia) ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE))
+- 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE))
 - Check it out here: https://linktr.ee/blaz_cerpnjak
 
 ### Social 📱
