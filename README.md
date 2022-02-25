@@ -11,9 +11,10 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 ### My projects ✨
 
-- :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ))
-- 👽 NorbyTheAlien android game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ))
-- 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE))
+- 📚 Be Productive - Tasks Manager & Focus Timer ([Download](https://play.google.com/store/apps/details?id=com.blazc.beproductive))
+- :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([Download](https://play.google.com/store/apps/details?id=com.bc.myparkings))
+- 👽 NorbyTheAlien android game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Download](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
+- 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE)) ([Download](https://play.google.com/store/apps/details?id=com.blazc.fitapp))
 - Check it out here: https://linktr.ee/blaz_cerpnjak
 
 ### Social 📱
