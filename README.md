@@ -11,6 +11,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 ### My projects ✨
 
+- :video_game: Coming Soon
 - 👽 NorbyTheAlien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([download](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
 - 📚 Be Productive - Tasks Manager & Focus Timer ([download](https://play.google.com/store/apps/details?id=com.blazc.beproductive))
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([download](https://play.google.com/store/apps/details?id=com.bc.myparkings))
