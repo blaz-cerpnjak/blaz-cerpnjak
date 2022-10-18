@@ -15,7 +15,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 ### My projects ✨
 
-- :video_game: Coming Soon
+- :video_game: Aurora the Mage ([App Store](https://apps.apple.com/us/app/aurora-the-mage/id6443779138))
 - 👽 NorbyTheAlien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
 - 📚 Be Productive - Tasks Manager & Focus Timer ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.beproductive))
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.bc.myparkings))
