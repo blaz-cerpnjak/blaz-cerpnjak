@@ -17,6 +17,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 - :video_game: Aurora the Mage ([App Store](https://apps.apple.com/us/app/aurora-the-mage/id6443779138)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCerpnjak.AuroratheMage&hl=en&gl=US))
 - 👽 NorbyTheAlien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
+- :mouse: CharlieTheMouse ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCrpnjak.CharlieTheMouse))
 - 📚 Be Productive - Tasks Manager & Focus Timer ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.beproductive))
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.bc.myparkings))
 - 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.fitapp))
