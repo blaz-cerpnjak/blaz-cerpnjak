@@ -9,7 +9,6 @@
 Currently I'm a student at Faculty of Electrical Engineering and Computer Science in Maribor.
 
 - 💻 My hobbies are programming & video editing
-- 📖 I'm currently learning Swift
 - 👨‍💻 I'm currently working on a project😉
 - 📫 How to reach me: blaz.cerpnjak@gmail.com
 
