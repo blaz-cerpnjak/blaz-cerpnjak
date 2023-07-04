@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="4C10642B-E050-4B89-9A9F-E6980C6D4749.png" width="30%">
-</p>
-
 # Hi, I'm Blaž 👋
 
 ## "I convert caffeine to code."</h3>
