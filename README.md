@@ -16,13 +16,6 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.bc.myparkings))
 - 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.fitapp))
 
-### Social 📱
-
-You can find me on the following social media platforms or send me an email:
-- Instagram: https://www.instagram.com/blaz_cerpnjak/
-- Facebook: https://www.facebook.com/blaz.cerpnjak/
-- blaz.cerpnjak@gmail.com
-
 <!--
 **blaz-cerpnjak/blaz-cerpnjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
