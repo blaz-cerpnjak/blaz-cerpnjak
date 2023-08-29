@@ -11,8 +11,8 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 - :video_game: :gun: Developing an intelligent opponent in 3rd person shooter game (Bachelor's thesis) ([About](https://github.com/blaz-cerpnjak/intelligent-opponent-shooter-game-unity/tree/main)) ([Gameplay](https://www.youtube.com/watch?v=eTh8MVgpejQ))
 - :video_game: Aurora the Mage ([App Store](https://apps.apple.com/us/app/aurora-the-mage/id6443779138)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCerpnjak.AuroratheMage&hl=en&gl=US))
-- 👽 NorbyTheAlien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
-- :mouse: CharlieTheMouse ([App Store](https://apps.apple.com/app/id1671441333)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCrpnjak.CharlieTheMouse))
+- 👽 Norby the Alien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
+- :mouse: Charlie the Mouse ([App Store](https://apps.apple.com/app/id1671441333)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCrpnjak.CharlieTheMouse))
 
 ### My Apps 📱
 
