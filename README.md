@@ -5,7 +5,6 @@
 Currently I'm a student at Faculty of Electrical Engineering and Computer Science in Maribor.
 
 - 💻 My hobbies are programming & video editing
-- 📫 How to reach me: blaz.cerpnjak@gmail.com
 
 ### My Games 🎮
 
