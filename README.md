@@ -6,7 +6,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 
 - 💻 My hobbies are programming & video editing
 
-### Unity Games 🎮
+### Unity games 🎮
 
 <div style="display: flex; justify-content: center;">
   <img src="https://play-lh.googleusercontent.com/Ik8TbK6_HyBL6FnC_EuSwJSJ8XauDWwrhunlc6-Tf8hDZmi8HMmfynyxEYMReaf-bbY=s96-rw" height="100" style="margin-right: 10px;">
@@ -23,7 +23,7 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 - 👽 Norby the Alien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
 - :mouse: Charlie the Mouse ([App Store](https://apps.apple.com/app/id1671441333)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCrpnjak.CharlieTheMouse))
 
-### Mobile Apps 📱
+### Mobile apps 📱
 
 <div style="display: flex; justify-content: center;">
   <img src="https://play-lh.googleusercontent.com/cJ3MEGJa5iXxmKwAcSYRxTA0cjR3DSdVHLBF3OldJQgpi4RejPC_iTY8FJipTTZGbkbV=w480-h960-rw" height="100" style="margin-right: 10px;">
@@ -36,6 +36,18 @@ Currently I'm a student at Faculty of Electrical Engineering and Computer Scienc
 - 📚 Be Productive - Tasks Manager & Focus Timer ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.beproductive))
 - :parking: MyParkings - Track Your Parkings ([watch video](https://www.youtube.com/watch?v=vIINvSmjVFQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.bc.myparkings))
 - 🍎 FitLajf fitness app ([watch video](https://www.youtube.com/watch?v=5YENHYN3NoE)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.fitapp))
+
+<br />
+
+<!--
+### Technologies I've worked with
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,unity,cs,nestjs,vuejs,react,typescript,javascript,go,docker,mongodb,mysql,sqlite" />
+  </a>
+</p>
+-->
 
 <!--
 **blaz-cerpnjak/blaz-cerpnjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
