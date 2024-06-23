@@ -2,7 +2,7 @@
 
 ## "I convert caffeine to code."</h3>
 
-Currently I'm a student at Faculty of Electrical Engineering and Computer Science in Maribor.
+Currently I'm pursuing a Master's degree in Informatics and Data Technologies atFaculty of Electrical Engineering and Computer Science in Maribor.
 
 - 💻 My hobbies are programming & video editing
 
