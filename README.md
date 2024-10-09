@@ -5,11 +5,15 @@
 Currently I'm pursuing a Master's degree in Informatics and Data Technologies atFaculty of Electrical Engineering and Computer Science in Maribor.
 
 - 💻 My hobbies are developing various app and video games & video editing
+
+<br />
  
 ### Outfit7 Talent Camp 2024 🎮
-<img src="https://blaz-cerpnjak-dev.vercel.app/projects/charlie-the-monster.png" height="100" style="margin-right: 10px;">
 
-- During the game jam, I had the opportunity to meet some incredible people. My team and I created a game called Charlie the Monster, where you play as a fluffy toy tasked with destroying toy buildings and defeating fierce cardboard soldiers. The game was developed using Unity engine in around 2 and a half days. [More](https://blaz-cerpnjak-dev.vercel.app/details/outfit7-talent-camp-2024)
+| ![Charlie the Monster](https://blaz-cerpnjak-dev.vercel.app/projects/charlie-the-monster.png) | During the game jam, I had the opportunity to meet some incredible people. My team and I created a game called Charlie the Monster, where you play as a fluffy toy tasked with destroying toy buildings and defeating fierce cardboard soldiers. The game was developed using Unity engine in around 2 and a half days. [More](https://blaz-cerpnjak-dev.vercel.app/details/outfit7-talent-camp-2024) |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<br />
 
 ### Unity games 🎮
 
@@ -27,6 +31,8 @@ Currently I'm pursuing a Master's degree in Informatics and Data Technologies at
 - :video_game: Aurora the Mage ([App Store](https://apps.apple.com/us/app/aurora-the-mage/id6443779138)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCerpnjak.AuroratheMage&hl=en&gl=US))
 - 👽 Norby the Alien Android Game ([watch video](https://www.youtube.com/watch?v=zE656Sn_4AQ)) ([Google Play](https://play.google.com/store/apps/details?id=com.blazc.NorbyTheAlien))
 - :mouse: Charlie the Mouse ([App Store](https://apps.apple.com/app/id1671441333)) ([Google Play](https://play.google.com/store/apps/details?id=com.BlazCrpnjak.CharlieTheMouse))
+
+<br />
 
 ### Mobile apps 📱
 
