@@ -5,6 +5,11 @@
 Currently I'm pursuing a Master's degree in Informatics and Data Technologies atFaculty of Electrical Engineering and Computer Science in Maribor.
 
 - 💻 My hobbies are developing various app and video games & video editing
+ 
+### Outfit7 Talent Camp 2024 🎮
+<img src="https://blaz-cerpnjak-dev.vercel.app/projects/charlie-the-monster.png" height="100" style="margin-right: 10px;">
+
+- During the game jam, I had the opportunity to meet some incredible people. My team and I created a game called Charlie the Monster, where you play as a fluffy toy tasked with destroying toy buildings and defeating fierce cardboard soldiers. The game was developed using Unity engine in around 2 and a half days. [More](https://blaz-cerpnjak-dev.vercel.app/details/outfit7-talent-camp-2024)
 
 ### Unity games 🎮
 
