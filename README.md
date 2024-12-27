@@ -50,7 +50,6 @@ Currently I'm pursuing a Master's degree in Informatics and Data Technologies at
 
 <br />
 
-<!--
 ### Technologies I've worked with
 
 <p align="start">
@@ -58,7 +57,6 @@ Currently I'm pursuing a Master's degree in Informatics and Data Technologies at
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,unity,cs,nestjs,vuejs,react,typescript,javascript,go,docker,mongodb,mysql,sqlite" />
   </a>
 </p>
--->
 
 <!--
 **blaz-cerpnjak/blaz-cerpnjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
