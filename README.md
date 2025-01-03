@@ -55,7 +55,7 @@ Currently I'm pursuing a Master's degree in Informatics and Data Technologies at
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,unity,cs,nestjs,vuejs,react,typescript,javascript,go,docker,mongodb,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,unity,cs,nestjs,vuejs,react,typescript,javascript,nodejs,go,docker,mongodb,mysql,sqlite" />
   </a>
 </p>
 
