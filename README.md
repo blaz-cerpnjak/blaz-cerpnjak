@@ -1,8 +1,11 @@
 # Hi, I'm Blaž 👋
 
-## "I convert caffeine to code."</h3>
+Passionate and creative software developer with over two and half years of experience as
+an Android developer, looking to grow not only as a developer, but also as a person. I
+enjoy developing various applications and games. Over the years, I've worked on
+numerous projects, which you can explore on my portfolio website. 
 
-Currently I'm pursuing a Master's degree in Informatics and Data Technologies atFaculty of Electrical Engineering and Computer Science in Maribor. 💻 My hobbies are developing various app and video games & video editing
+Currently I'm pursuing a Master's degree in Informatics and Data Technologies at Faculty of Electrical Engineering and Computer Science in Maribor.
 
 <br />
  
