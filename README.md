@@ -1,13 +1,15 @@
 # Hi, I'm Blaž 👋
 
-Passionate and creative software developer with over two and half years of experience as
-an Android developer, looking to grow not only as a developer, but also as a person. I
-enjoy developing various applications and games. Over the years, I've worked on
-numerous projects, which you can explore on my portfolio website. 
+Passionate and creative software engineer, looking to grow not only as a developer, but also as a person. I
+enjoy developing various applications and games. Over the years, I've worked on numerous projects, which you can explore on my portfolio website. 
 
-Currently I'm pursuing a Master's degree in Informatics and Data Technologies at Faculty of Electrical Engineering and Computer Science in Maribor.
 
 <br />
+
+### Endurro AI 
+
+| ![Endurro AI](https://blaz-cerpnjak-dev.vercel.app/projects/endurro-ai.png) | AI training coach with multiple data integrations like Strava. [Endurro](https://endurroai.com) |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
 ### Outfit7 Talent Camp 2024 🎮
 
