@@ -13,7 +13,7 @@ enjoy developing various applications and games. Over the years, I've worked on 
 
 ### TrafficSense AI 🚙  
 
-| <img src="https://www.goslovenia.si/wp-content/uploads/sites/2/2023/08/Promet-kaart-slovenie.jpg" width="155" height="155" /> | Predicting Travel Times & Traffic Flow on Highways in Slovenia [More](https://[endurroai.com](https://github.com/blaz-cerpnjak/traffic-flow-prediction)) |
+| <img src="https://www.goslovenia.si/wp-content/uploads/sites/2/2023/08/Promet-kaart-slovenie.jpg" width="155" height="155" /> | Predicting Travel Times & Traffic Flow on Highways in Slovenia [More](https://github.com/blaz-cerpnjak/traffic-flow-prediction) |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
 ### Outfit7 Talent Camp 🎮
