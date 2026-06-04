@@ -6,17 +6,17 @@ enjoy developing various applications and games. Over the years, I've worked on 
 
 <br />
 
-### Endurro AI 
+### Endurro AI 🏃‍♂️
 
 | <img src="https://blaz-cerpnjak-dev.vercel.app/projects/endurro-ai.png" width="155" height="155" /> | AI training coach with multiple data integrations like Strava. [Endurro](https://endurroai.com) |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-### TrafficSense AI
+### TrafficSense AI 🚙  
 
 | <img src="https://www.goslovenia.si/wp-content/uploads/sites/2/2023/08/Promet-kaart-slovenie.jpg" width="155" height="155" /> | Predicting Travel Times & Traffic Flow on Highways in Slovenia [More](https://[endurroai.com](https://github.com/blaz-cerpnjak/traffic-flow-prediction)) |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
-### Outfit7 Talent Camp 2024 🎮
+### Outfit7 Talent Camp 🎮
 
 | ![Charlie the Monster](https://blaz-cerpnjak-dev.vercel.app/projects/charlie-the-monster.png) | During the game jam, I had the opportunity to meet some incredible people. My team and I created a game called Charlie the Monster, where you play as a fluffy toy tasked with destroying toy buildings and defeating fierce cardboard soldiers. The game was developed using Unity engine in around 2 and a half days. [More](https://blaz-cerpnjak-dev.vercel.app/details/outfit7-talent-camp-2024) |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
