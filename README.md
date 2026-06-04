@@ -8,7 +8,7 @@ enjoy developing various applications and games. Over the years, I've worked on 
 
 ### Endurro AI 
 
-| ![Endurro AI](https://blaz-cerpnjak-dev.vercel.app/projects/endurro-ai.png) | AI training coach with multiple data integrations like Strava. [Endurro](https://endurroai.com) |
+| <img src="https://blaz-cerpnjak-dev.vercel.app/projects/endurro-ai.png" width="155" height="155" /> | AI training coach with multiple data integrations like Strava. [Endurro](https://endurroai.com) |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
  
 ### Outfit7 Talent Camp 2024 🎮
